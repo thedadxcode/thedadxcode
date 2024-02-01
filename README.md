@@ -72,7 +72,7 @@
   <a href="https://chat.whatsapp.com/HR1irLWIJYLLFoW9pbwx50" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.instagram.com/deepnegi_d?igsh=MXE2aGR6ZjAwdnoxYg==" target="_blank">
+  <a href="https://www.instagram.com/thedadxcode?igsh=MTV4MWl6bnR1amltNg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/deepak-negi-55bb31288/" target="_blank">
