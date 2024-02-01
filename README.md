@@ -64,13 +64,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  
 </div>
-
-###
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
+<br><br>
 
 <div align="center">
   <a href="https://chat.whatsapp.com/HR1irLWIJYLLFoW9pbwx50" target="_blank">
@@ -82,8 +78,6 @@
   <a href="https://www.linkedin.com/in/deepak-negi-55bb31288/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-
-<div align="left">
   <a href="https://t.me/thedadxcode" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
@@ -93,15 +87,7 @@
   </a>
   
 </div>
-###
 
-
-
-
-
-###
-
-###
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedadxcode&show_icons=true&locale=en&layout=compact" alt="thedadxcode" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedadxcode&show_icons=true&locale=en" alt="thedadxcode" /></p>
