@@ -15,11 +15,11 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **UI**
+- 💬 Ask me about **UI & UX**
 
 - 📫 How to reach me **neginegi3221@gmail.com**
 
-- ⚡ Fun fact **I Create Shorts Ui Project**
+- ⚡ Fun fact **I Create Shorts UI Project**
 
 
 <h3 align="left">Languages and Tools:</h3>
